@@ -1,0 +1,28 @@
+---
+noteId: "cd903330587a11f1af2f1fae71365be1"
+tags: []
+
+---
+
+## examples/FirestoreDatabase/CollectionGroups/Indexes
+
+* [FirestoreDatabase](/examples/FirestoreDatabase/)
+    * [CollectionGroups](/examples/FirestoreDatabase//CollectionGroups/)
+        * [Indexes](/examples/FirestoreDatabase/CollectionGroups/Indexes/)
+            * [Async](/examples/FirestoreDatabase/CollectionGroups/Indexes/Async/)
+                * [Callback](/examples/FirestoreDatabase/CollectionGroups/Indexes/Async/Callback/)
+                    * [Create](/examples/FirestoreDatabase/CollectionGroups/Indexes/Async/Callback/Create/)
+                    * [Delete](/examples/FirestoreDatabase/CollectionGroups/Indexes/Async/Callback/Delete/)
+                    * [Get](/examples/FirestoreDatabase/CollectionGroups/Indexes/Async/Callback/Get/)
+                    * [List](/examples/FirestoreDatabase/CollectionGroups/Indexes/Async/Callback/List/)
+                * [NoCallback](/examples/FirestoreDatabase/CollectionGroups/Indexes/Async/NoCallback/)
+                    * [Create](/examples/FirestoreDatabase/CollectionGroups/Indexes/Async/NoCallback/Create/)
+                    * [Delete](/examples/FirestoreDatabase/CollectionGroups/Indexes/Async/NoCallback/Delete/)
+                    * [Get](/examples/FirestoreDatabase/CollectionGroups/Indexes/Async/NoCallback/Get/)
+                    * [List](/examples/FirestoreDatabase/CollectionGroups/Indexes/Async/NoCallback/List/)
+            * [Sync](/examples/FirestoreDatabase/CollectionGroups/Indexes/Sync/)
+                * [Create](/examples/FirestoreDatabase/CollectionGroups/Indexes/Sync/Create/)
+                * [Delete](/examples/FirestoreDatabase/CollectionGroups/Indexes/Sync/Delete/)
+                * [Get](/examples/FirestoreDatabase/CollectionGroups/Indexes/Sync/Get/)
+                * [List](/examples/FirestoreDatabase/CollectionGroups/Indexes/Sync/List/)
+    
